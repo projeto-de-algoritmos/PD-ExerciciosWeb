@@ -10,7 +10,7 @@
 | 21/2008197  | João Pedro Alves Machado |
 
 ## Sobre 
-Este projeto consiste na resolução de exercícios que abordam o tema de Dividir e Conquistar (Divide and Conquer). Além dos exercícios retirados do site LeetCode, também foram utilizados outros algoritmos que fazem uso do conteúdo estudado. Isso permitiu explorar diferentes abordagens e aprofundar o conhecimento nessa técnica de resolução de problemas.
+Este projeto consiste na resolução de exercícios que abordam o tema de Progamação Dinamica. Além dos exercícios retirados do site LeetCode, também foram utilizados outros algoritmos que fazem uso do conteúdo estudado. Isso permitiu explorar diferentes abordagens e aprofundar o conhecimento nessa técnica de resolução de problemas.
 
 
 ## Instalação 
