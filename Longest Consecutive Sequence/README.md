@@ -1,30 +1,30 @@
 # [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
 dificuldade : Difícil
 
-Given a string s, find the length of the longest 
+Dada uma string s, encontre o comprimento da maior
 substring
- without repeating characters.
+ sem repetir caracteres.
 
 
 #
 *Exemplo 1:*
-Input: s = "abcabcbb"
-Output: 3
-Explanation: The answer is "abc", with the length of 3.
+Entrada: s = "abcabcbb"
+Saída: 3
+Explicação: A resposta é "abc", com comprimento 3.
 
 #
 *Exemplo 2:*
-Input: s = "abcabcbb"
-Output: 3
-Explanation: The answer is "abc", with the length of 3.
+Entrada: s = "abcabcbb"
+Saída: 3
+Explicação: A resposta é "abc", com comprimento 3.
 
 *Exemplo 3:*
-Input: s = "pwwkew"
-Output: 3
-Explanation: The answer is "wke", with the length of 3.
-Notice that the answer must be a substring, "pwke" is a subsequence and not a substring.
+Entrada: s = "pwwkew"
+Saída: 3
+Explicação: A resposta é "wke", com o comprimento de 3.
+Observe que a resposta deve ser uma substring, "pwke" é uma subsequência e não uma substring.
 
 ## Restrições:
 
-0 <= s.length <= 5 * 104
-s consists of English letters, digits, symbols and spaces.
+0 <= s.comprimento <= 5 * 104
+s consiste em letras, dígitos, símbolos e espaços em inglês.
