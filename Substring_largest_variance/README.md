@@ -20,15 +20,10 @@ Como a maior variância possível é 3, nós a retornamos.
 #
 *Exemplo 2:*
 
-
-
 Entrada: s = "abcde"
  Saída: 0
  Explicação:
 Nenhuma letra ocorre mais de uma vez em s, então a variação de cada substring é 0.
- 
-
-
 
 ## Restrições:
 
