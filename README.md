@@ -43,6 +43,6 @@ python3 <exercicio.py>
 Ex: python3 KnapsackPD.py
 
 ## Outros
-[link da apresentação do aluno: Caio Vitor Carneiro](https://youtu.be/7tDaOYfFnN8)
+[link da apresentação do aluno: Caio Vitor Carneiro](https://youtu.be/JepTYxpsNDs)
 
 [link da apresentação do aluno: João Pedro Alves Machado](https://youtu.be/MF-ZHgH0Umo)
