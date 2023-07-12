@@ -1,7 +1,7 @@
-# Exercícios do LeetCode - Dividir & Conquistar
+# Exercícios da WEB - Programação Dinâmica
 
 **Número da Lista**: 34 <br>
-**Conteúdo da Disciplina**: D&C<br>
+**Conteúdo da Disciplina**: PD<br>
 
 ## Alunos
 |Matrícula | Aluno |
@@ -12,10 +12,6 @@
 ## Sobre 
 Este projeto consiste na resolução de exercícios que abordam o tema de Progamação Dinamica. Além dos exercícios retirados do site LeetCode, também foram utilizados outros algoritmos que fazem uso do conteúdo estudado. Isso permitiu explorar diferentes abordagens e aprofundar o conhecimento nessa técnica de resolução de problemas.
 
-
-## Instalação 
-**Linguagem**: Python3<br>
-- **OBS.:** Não será necessária nenhuma instalação pois os códigos serão executados no próprio site do LeetCode.
 
 ## Uso
 
@@ -40,9 +36,13 @@ Observação: É possível que seja necessário fazer login no site para conclui
 Etapa 6: Verificar os resultados
 Assim que o código for executado, verifique os resultados para confirmar se o exercício foi resolvido corretamente.
 
+## Executar código via terminal
 
+python3 <exercicio.py>
+
+Ex: python3 KnapsackPD.py
 
 ## Outros
-[link da apresentação do aluno: Caio Vitor Carneiro](https://youtu.be/VLcx9XsZe_U)
+[link da apresentação do aluno: Caio Vitor Carneiro](https://youtu.be/7tDaOYfFnN8)
 
 [link da apresentação do aluno: João Pedro Alves Machado](https://youtu.be/MF-ZHgH0Umo)
